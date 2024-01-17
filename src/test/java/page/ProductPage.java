@@ -7,7 +7,7 @@ public class ProductPage extends PageBase {
 
     public static String PRODUCT_BRAND_NAME_CLASS_NAME = "o-productDetail__brandLink";
     public static String PRODUCT_DESCRIPTION_CLASS_NAME = "o-productDetail__description";
-    public static String PRODUCT_PRICE_CLASS_NAME = "m-price__new"; //also checked whether price class name changed when there is one price
+    public static String PRODUCT_PRICE_CLASS_NAME = "m-price__new";
     public static String PRODUCT_SIZES_XPATH = "//*[@id=\"sizes\"]/div/span";
     public static String ADD_BASKET_BUTTON_ID = "addBasket";
     public static String GO_BASKET_BUTTON_ON_NOTIFICATION_CSS_SELECTOR = "div.m-notification.success >button.m-notification__button.btn";
